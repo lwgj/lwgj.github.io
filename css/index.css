@@ -1,0 +1,61 @@
+#nav1 ul{
+    list-style: none;
+    width: 1143px;
+    margin: 0 auto;
+}
+
+#nav1 ul li{
+    float: left;
+    width: 120px;
+    text-align: center;
+}
+
+#nav1 ul li a{
+    height: 50px;
+    font-size: 18px;
+    line-height: 50px;
+    color: white;
+}
+
+#nav1 ul li a:hover{
+    color: white;
+    text-decoration:none;
+    border-bottom:5px #CAE6FE solid;
+    padding-bottom:8px;
+}
+
+#nav1 ul li a:visited{
+    color: white;
+    text-decoration:none;
+}
+
+#nav1 ul li a:link{
+    color: white;
+    text-decoration:none;
+}
+
+#ttgg_content ul li{
+    float:left;
+    margin-left:50px;
+}
+
+#ttgg_content ul li a{
+    font-size:14px;
+    line-height:43px;
+    color:#717171;
+    text-decoration:none;
+}
+
+#ttgg_content1 ul li{
+    float:left;
+    margin-left:30px;
+}
+
+.a1 a:hover{
+    color:#0468B3;
+    text-decoration:none;
+}
+.a1 a{
+    color:#545353;
+    text-decoration:none;
+}
